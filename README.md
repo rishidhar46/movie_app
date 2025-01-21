@@ -9,4 +9,5 @@ The app is designed to be intuitive and responsive:
 Users can quickly scan movie ratings with the color-coded system.
 The grid layout ensures that the information is neatly organized and visually appealing.
 Movie overviews provide deeper insights into each film without leaving the page.
+
 **Design link**:https://www.figma.com/proto/YLffoZAwICZYGmNHh766Mb/Untitled?node-id=11-3&t=4l20SGk8LgoNPO2w-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
